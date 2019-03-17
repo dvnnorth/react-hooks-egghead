@@ -1,0 +1,16 @@
+.Playground {
+  color: white;
+}
+
+input {
+  padding: 6px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid rgba(85, 85, 85, 0.8);
+  border-radius: 10px;
+}
+
+input:focus {
+  border: 2px solid #55F;
+  outline: none;
+}

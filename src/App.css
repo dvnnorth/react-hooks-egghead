@@ -1,0 +1,18 @@
+.App {
+  /* Make app div take up full view */
+  width: 100vw;
+  height: 100vh;
+
+  /* Font family */
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.App h1,h2,h3,h4,h5,h6 {
+  font-family: 'Source Serif Pro', serif;
+}
+
+.App code {
+  font-family: 'Source Code Pro', monospace;
+  background-color: #888;
+  padding: 2px;
+}
